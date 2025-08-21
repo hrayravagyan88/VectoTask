@@ -1,0 +1,221 @@
+.app-container {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar {
+  width: 80px;
+  background-color: transparent;
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2rem 0;
+  transition: all 0.3s ease;
+  overflow: hidden;
+  z-index: 1000;
+}
+.sidebar-item{
+  display: flex;
+  gap:10px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+}
+.sidebar:hover {
+  width: 200px;
+  background-color: rgba(26, 26, 26, 0.8);
+}
+
+.sidebar-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 6rem 25px;
+}
+
+.sidebar-icon {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+  position: relative;
+}
+
+.sidebar-icon::after {
+  content: attr(title);
+  position: absolute;
+  left: 48px;
+  white-space: nowrap;
+  color: white;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.sidebar:hover .sidebar-icon::after {
+  opacity: 1;
+}
+
+.profile-section {
+  margin-top: auto;
+  padding: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  visibility: hidden;
+}
+
+.sidebar:hover .profile-section {
+  opacity: 1;
+  visibility: visible;
+}
+
+.profile-info {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+ display: none;
+  transition: opacity 0.3s ease;
+}
+.sidebar:hover .profile-info {
+ display: flex;
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+  background: #666;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  flex-shrink: 0;
+}
+
+.profile-name {
+  color: white;
+  position: absolute;
+  left: 50px;           /* position next to avatar */
+  white-space: nowrap;
+  display: none;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+
+.sidebar:hover .profile-name {
+  display: block;
+  pointer-events: auto;
+}
+
+.bottom-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.menu-item {
+  color: white;
+  padding: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+.sidebar-text {
+  color: white;
+  white-space: nowrap;
+  display: none;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+/* Show text on hover */
+.sidebar:hover .sidebar-text {
+display: block
+}
+.menu-item:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.carousel-header {
+  color: white;
+  font-size: 16px;
+  margin-bottom: 10px;
+  padding-left: 40px;
+  font-weight: 500;
+}
+.carousel-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  padding: 0 40px;
+  background: #1a1a1a;
+}
+
+.carousel-items {
+  display: flex;
+  overflow: hidden;
+  gap: 16px;
+}
+
+.carousel-item {
+  flex: 0 0 calc(16.666% - 14px);
+  transition: all 0.3s ease;
+}
+
+.carousel-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.carousel-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 16px;
+  cursor: pointer;
+  border-radius: 50%;
+  z-index: 2;
+}
+
+.carousel-button:hover {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.prev {
+  left: 10px;
+}
+
+.next {
+  right: 10px;
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 80px; /* Same as sidebar width */
+  right: 0;
+  background: #1a1a1a;
+  z-index: 100;
+}
+.featured-content-wrapper{
+  width: 40%;
+  margin-left: 20px;
+  position: relative;
+  z-index: 2;
+  COLOR: white;
+}
+.featured-title-image{
+  width:450px
+}
+
+
+
+
