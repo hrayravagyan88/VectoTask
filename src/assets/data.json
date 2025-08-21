@@ -9,7 +9,8 @@
 		"MpaRating": "18+",
 		"Category": "Movie",
 		"Duration": "6000",
-		"Description": "Info About it"
+		"Description": "Info About it",
+		"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic"
 	},
 	"TendingNow": [
 		{
@@ -22,7 +23,7 @@
 			"MpaRating": "18+",
 			"Category": "Movie",
 			"Duration": "2000",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -35,7 +36,7 @@
 			"MpaRating": "18+",
 			"Category": "TV Show",
 			"Duration": "2300",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -48,7 +49,7 @@
 			"MpaRating": "18+",
 			"Category": "Movie",
 			"Duration": "6000",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -61,7 +62,7 @@
 			"MpaRating": "18+",
 			"Category": "Movie",
 			"Duration": "4000",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -74,7 +75,7 @@
 			"MpaRating": "18+",
 			"Category": "TV Show",
 			"Duration": "5300",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -87,7 +88,7 @@
 			"MpaRating": "18+",
 			"Category": "TV Show",
 			"Duration": "1200",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -100,7 +101,7 @@
 			"MpaRating": "18+",
 			"Category": "Movie",
 			"Duration": "4500",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -113,7 +114,7 @@
 			"MpaRating": "18+",
 			"Category": "TV Show",
 			"Duration": "2000",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -126,7 +127,7 @@
 			"MpaRating": "18+",
 			"Category": "Movie",
 			"Duration": "2300",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -139,7 +140,7 @@
 			"MpaRating": "18+",
 			"Category": "Movie",
 			"Duration": "6000",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -152,7 +153,7 @@
 			"MpaRating": "18+",
 			"Category": "TV Show",
 			"Duration": "1200",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -165,7 +166,7 @@
 			"MpaRating": "18+",
 			"Category": "Movie",
 			"Duration": "3400",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -178,7 +179,7 @@
 			"MpaRating": "18+",
 			"Category": "Movie",
 			"Duration": "6500",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -191,7 +192,7 @@
 			"MpaRating": "18+",
 			"Category": "Movie",
 			"Duration": "5000",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -204,7 +205,7 @@
 			"MpaRating": "18+",
 			"Category": "Movie",
 			"Duration": "1300",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -217,7 +218,7 @@
 			"MpaRating": "18+",
 			"Category": "Movie",
 			"Duration": "5000",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -230,7 +231,7 @@
 			"MpaRating": "18+",
 			"Category": "TV Show",
 			"Duration": "400",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		},
 		{
@@ -243,7 +244,7 @@
 			"MpaRating": "18+",
 			"Category": "TV Show",
 			"Duration": "1200",
-			"VideoUrl": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+			"VideoUrl": "https://www.youtube.com/embed/DeEZx4K0Eic",
 			"Description": "Info About it"
 		}
 	]

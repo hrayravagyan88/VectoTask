@@ -5,7 +5,7 @@
 
 .sidebar {
   width: 80px;
-  background-color: transparent;
+  background: black;
   position: fixed;
   left: 0;
   top: 0;
@@ -24,6 +24,7 @@
   justify-content: flex-start;
   align-items: flex-start;
   width: 100%;
+  cursor:pointer
 }
 .sidebar:hover {
   width: 200px;
@@ -214,6 +215,46 @@ display: block
 }
 .featured-title-image{
   width:450px
+}
+
+
+.button-container {
+  margin-top: 30px;
+  display: flex;
+  gap: 16px; /* space between buttons */
+}
+
+.btn {
+  width: 160px;      /* same width */
+  height: 48px;      /* same height */
+  border-radius: 12px; /* same rounded corners */
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px; /* space between icon and text */
+}
+
+/* White Play Button */
+.btn-play {
+  background-color: white;
+  color: black;
+  border: none;
+}
+.btn-play:hover {
+  background-color: #e5e5e5;
+}
+
+/* Blue More Info Button */
+.btn-info {
+  background-color: #007bff;
+  color: white;
+  border: none;
+}
+.btn-info:hover {
+  background-color: #0056b3;
 }
 
 
